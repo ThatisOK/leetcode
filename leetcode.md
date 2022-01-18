@@ -29,7 +29,7 @@
 [买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii)  
 [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv)    
 [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown)  
-
+[二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)  
 
 # 回溯
 [括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
